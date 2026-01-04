@@ -54,7 +54,7 @@ _G.SendWebhook = false -- Set to true to enable notifications
 _G.Webhook = "YOUR-WEBHOOK-URL-HERE" 
 
 -- [[ INITIALIZE LIBRARY ]]
-local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/lg143113-hub/zxzxzx/refs/heads/main/fff?token=GHSAT0AAAAAADQ6TYVS3LEOHKZW4K5G2AAY2K26QMQ"))()
+local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/lg143113-hub/lib/refs/heads/main/xxxxxx"))()
 
 -- [[ START STRATEGY ]]
 TDS:Loadout("Crook Boss", "Trapper")
