@@ -1,7 +1,7 @@
 -- ===== AUTO RELOAD AFTER TELEPORT =====
 if queue_on_teleport then
 	queue_on_teleport([[
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_NAME/YOUR_REPO/main/autostrat.lua"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/lg143113-hub/xxxx/refs/heads/main/ff"))()
 	]])
 end
 
