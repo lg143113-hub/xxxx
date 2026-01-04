@@ -1,7 +1,7 @@
 -- ===== AUTO RELOAD AFTER TELEPORT =====
 if queue_on_teleport then
 	queue_on_teleport([[
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/lg143113-hub/zxzxzx/refs/heads/main/fff?token=GHSAT0AAAAAADQ6TYVS3LEOHKZW4K5G2AAY2K26QMQ"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/lg143113-hub/xxxx/refs/heads/main/ff"))()
 	]])
 end
 
