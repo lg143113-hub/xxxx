@@ -1,6 +1,6 @@
 -- ===== AUTO REJOIN LOAD =====
 if queue_on_teleport then
-	queue_on_teleport(game:HttpGet("https://raw.githubusercontent.com/yourlink/tds.lua"))
+	queue_on_teleport(game:HttpGet("https://raw.githubusercontent.com/lg143113-hub/xxxx/refs/heads/main/ff"))
 end
 
 repeat task.wait() until game:IsLoaded()
